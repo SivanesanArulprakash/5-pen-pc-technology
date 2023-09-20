@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 
-const char* ssid = "YourWiFiSSID";
-const char* password = "YourWiFiPassword";
+const char* ssid = "Your_WiFi_SSID";
+const char* password = "Your_WiFi_Password";
 const char* serverIp = "192.168.1.2";  // Replace with the IP of the other device
 const int serverPort = 12345;
 
